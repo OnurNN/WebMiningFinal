@@ -1,0 +1,82 @@
+[
+    {
+        "team_name": "Liverpool",
+        "passes_pct": "84.0"
+    },
+    {
+        "team_name": "Arsenal",
+        "passes_pct": "84.8"
+    },
+    {
+        "team_name": "Aston Villa",
+        "passes_pct": "83.8"
+    },
+    {
+        "team_name": "Manchester City",
+        "passes_pct": "89.2"
+    },
+    {
+        "team_name": "Tottenham Hotspur",
+        "passes_pct": "85.3"
+    },
+    {
+        "team_name": "Manchester United",
+        "passes_pct": "80.7"
+    },
+    {
+        "team_name": "West Ham United",
+        "passes_pct": "77.9"
+    },
+    {
+        "team_name": "Brighton and Hove Albion",
+        "passes_pct": "87.1"
+    },
+    {
+        "team_name": "Wolverhampton Wanderers",
+        "passes_pct": "80.8"
+    },
+    {
+        "team_name": "Newcastle United",
+        "passes_pct": "81.0"
+    },
+    {
+        "team_name": "Chelsea",
+        "passes_pct": "85.8"
+    },
+    {
+        "team_name": "Fulham",
+        "passes_pct": "80.6"
+    },
+    {
+        "team_name": "Bournemouth",
+        "passes_pct": "74.7"
+    },
+    {
+        "team_name": "Crystal Palace",
+        "passes_pct": "77.1"
+    },
+    {
+        "team_name": "Brentford",
+        "passes_pct": "74.6"
+    },
+    {
+        "team_name": "Everton",
+        "passes_pct": "73.2"
+    },
+    {
+        "team_name": "Luton Town",
+        "passes_pct": "73.2"
+    },
+    {
+        "team_name": "Nottingham Forest",
+        "passes_pct": "75.8"
+    },
+    {
+        "team_name": "Burnley",
+        "passes_pct": "77.6"
+    },
+    {
+        "team_name": "Sheffield United",
+        "passes_pct": "70.5"
+    }
+]

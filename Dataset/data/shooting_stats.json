@@ -1,0 +1,82 @@
+[
+    {
+        "team_name": "Liverpool",
+        "shots_on_target_pct": "35.2"
+    },
+    {
+        "team_name": "Arsenal",
+        "shots_on_target_pct": "32.5"
+    },
+    {
+        "team_name": "Aston Villa",
+        "shots_on_target_pct": "37.3"
+    },
+    {
+        "team_name": "Manchester City",
+        "shots_on_target_pct": "38.0"
+    },
+    {
+        "team_name": "Tottenham Hotspur",
+        "shots_on_target_pct": "35.8"
+    },
+    {
+        "team_name": "Manchester United",
+        "shots_on_target_pct": "34.4"
+    },
+    {
+        "team_name": "West Ham United",
+        "shots_on_target_pct": "33.4"
+    },
+    {
+        "team_name": "Brighton and Hove Albion",
+        "shots_on_target_pct": "34.9"
+    },
+    {
+        "team_name": "Wolverhampton Wanderers",
+        "shots_on_target_pct": "36.3"
+    },
+    {
+        "team_name": "Newcastle United",
+        "shots_on_target_pct": "37.8"
+    },
+    {
+        "team_name": "Chelsea",
+        "shots_on_target_pct": "37.3"
+    },
+    {
+        "team_name": "Fulham",
+        "shots_on_target_pct": "33.7"
+    },
+    {
+        "team_name": "Bournemouth",
+        "shots_on_target_pct": "32.2"
+    },
+    {
+        "team_name": "Crystal Palace",
+        "shots_on_target_pct": "35.8"
+    },
+    {
+        "team_name": "Brentford",
+        "shots_on_target_pct": "33.8"
+    },
+    {
+        "team_name": "Everton",
+        "shots_on_target_pct": "30.0"
+    },
+    {
+        "team_name": "Luton Town",
+        "shots_on_target_pct": "32.7"
+    },
+    {
+        "team_name": "Nottingham Forest",
+        "shots_on_target_pct": "31.2"
+    },
+    {
+        "team_name": "Burnley",
+        "shots_on_target_pct": "31.8"
+    },
+    {
+        "team_name": "Sheffield United",
+        "shots_on_target_pct": "32.7"
+    }
+]
